@@ -5,7 +5,7 @@
 API de carros com Flask
 </h1>
 
-<p align="center"> API de carros criada em Python utilizando o micro Framework Flask. Objetivo da API é exibir dados de veiculo, porém também é possível adicionar mais veiculos. Abaixo a API rodando na plataforma de teste Postman. </p>
+<p align="center"> 🚙 API de carros criada em Python utilizando o micro Framework Flask. Objetivo da API é exibir dados de veiculo, porém também é possível adicionar mais veiculos. Abaixo a API rodando na plataforma de teste Postman. 🚙 </p>
 <p> 
 <br>
 <p>
